@@ -249,6 +249,10 @@
           "choice": "images/IMG_3729.jpeg",
           "texture": "images/tex/IMG_3729_tex.jpg"
         },
+        "Minky lisse creme": {
+          "choice": "images/IMG_8827.jpeg",
+          "texture": "images/tex/IMG_8827_tex.jpg"
+        },
         "Renard": {
           "choice": "images/IMG_7649.jpeg",
           "texture": "images/tex/IMG_7649_tex.jpg"
